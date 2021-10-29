@@ -63,3 +63,4 @@ Anyone watching the pull request or repository will receive a notification of yo
 - "[Writing on GitHub](/github/writing-on-github)"
 {% ifversion fpt or ghec %}- "[Reporting abuse or spam](/communities/maintaining-your-safety-on-github/reporting-abuse-or-spam)"
 {% endif %}
+*
